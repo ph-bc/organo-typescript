@@ -1,0 +1,184 @@
+{
+  "collaborator": [
+    {
+      "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+      "name": "JULIANA AMOASEI",
+      "role": "Desenvolvedora de software e instrutora",
+      "image": "https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg",
+      "team": "Programação",
+      "favorite": false,
+      "date": "2023-02-15"
+    },
+    {
+      "id": "b1c2d3e4-f5g6-h7i8-j9k0l1m2n3o4p5",
+      "name": "DANIEL ARTINE",
+      "role": "Engenheiro de Software na Stone Age",
+      "image": "https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg",
+      "team": "Programação",
+      "favorite": false,
+      "date": "2023-05-20"
+    },
+    {
+      "id": "c1d2e3f4-g5h6-i7j8-k9l0m1n2o3p4",
+      "name": "GUILHERME LIMA",
+      "role": "Desenvolvedor Python e JavaScript na Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg",
+      "team": "Programação",
+      "favorite": false,
+      "date": "2023-07-12"
+    },
+    {
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0n1o2p3",
+      "name": "PAULO SILVEIRA",
+      "role": "Hipster e CEO da Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg",
+      "team": "Programação",
+      "favorite": false,
+      "date": "2023-03-30"
+    },
+    {
+      "id": "e1f2g3h4-i5j6-k7l8m9n0o1p2",
+      "name": "JULIANA AMOASEI",
+      "role": "Desenvolvedora de software e instrutora",
+      "image": "https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg",
+      "team": "Front-End",
+      "favorite": false,
+      "date": "2023-11-05"
+    },
+    {
+      "id": "f1g2h3i4-j5k6-l7m8n9o0p1",
+      "name": "DANIEL ARTINE",
+      "role": "Engenheiro de Software na Stone Age",
+      "image": "https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg",
+      "team": "Front-End",
+      "favorite": false,
+      "date": "2024-01-17"
+    },
+    {
+      "id": "g1h2i3j4-k5l6-m7n8o9p0",
+      "name": "GUILHERME LIMA",
+      "role": "Desenvolvedor Python e JavaScript na Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg",
+      "team": "Front-End",
+      "favorite": false,
+      "date": "2023-09-23"
+    },
+    {
+      "id": "h1i2j3k4-l5m6-n7o8p9",
+      "name": "PAULO SILVEIRA",
+      "role": "Hipster e CEO da Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg",
+      "team": "Front-End",
+      "favorite": false,
+      "date": "2024-03-11"
+    },
+    {
+      "id": "i1j2k3l4-m5n6-o7p8",
+      "name": "JULIANA AMOASEI",
+      "role": "Desenvolvedora de software e instrutora",
+      "image": "https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg",
+      "team": "Data Science",
+      "favorite": false,
+      "date": "2024-05-19"
+    },
+    {
+      "id": "j1k2l3m4-n5o6p7",
+      "name": "DANIEL ARTINE",
+      "role": "Engenheiro de Software na Stone Age",
+      "image": "https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg",
+      "team": "Data Science",
+      "favorite": false,
+      "date": "2024-02-03"
+    },
+    {
+      "id": "k1l2m3n4-o5p6",
+      "name": "GUILHERME LIMA",
+      "role": "Desenvolvedor Python e JavaScript na Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg",
+      "team": "Data Science",
+      "favorite": false,
+      "date": "2023-04-10"
+    },
+    {
+      "id": "l1m2n3o4-p5",
+      "name": "PAULO SILVEIRA",
+      "role": "Hipster e CEO da Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg",
+      "team": "Data Science",
+      "favorite": false,
+      "date": "2023-06-27"
+    },
+    {
+      "id": "m1n2o3p4",
+      "name": "JULIANA AMOASEI",
+      "role": "Desenvolvedora de software e instrutora",
+      "image": "https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg",
+      "team": "DevOps",
+      "favorite": false,
+      "date": "2023-08-15"
+    },
+    {
+      "id": "n1o2p3q4",
+      "name": "DANIEL ARTINE",
+      "role": "Engenheiro de Software na Stone Age",
+      "image": "https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg",
+      "team": "DevOps",
+      "favorite": false,
+      "date": "2024-04-07"
+    },
+    {
+      "id": "o1p2q3r4",
+      "name": "GUILHERME LIMA",
+      "role": "Desenvolvedor Python e JavaScript na Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg",
+      "team": "DevOps",
+      "favorite": false,
+      "date": "2023-11-29"
+    },
+    {
+      "id": "p1q2r3s4",
+      "name": "PAULO SILVEIRA",
+      "role": "Hipster e CEO da Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg",
+      "team": "DevOps",
+      "favorite": false,
+      "date": "2024-06-18"
+    },
+    {
+      "id": "q1r2s3t4",
+      "name": "JULIANA AMOASEI",
+      "role": "Desenvolvedora de software e instrutora",
+      "image": "https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg",
+      "team": "UX e Design",
+      "favorite": false,
+      "date": "2023-09-03"
+    },
+    {
+      "id": "r1s2t3u4",
+      "name": "DANIEL ARTINE",
+      "role": "Engenheiro de Software na Stone Age",
+      "image": "https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg",
+      "team": "UX e Design",
+      "favorite": false,
+      "date": "2024-01-12"
+    },
+    {
+      "id": "s1t2u3v4",
+      "name": "GUILHERME LIMA",
+      "role": "Desenvolvedor Python e JavaScript na Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg",
+      "team": "UX e Design",
+      "favorite": false,
+      "date": "2024-06-03"
+    },
+    {
+      "id": "t1u2v3w4",
+      "name": "PAULO SILVEIRA",
+      "role": "Hipster e CEO da Alura",
+      "image": "https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg",
+      "team": "UX e Design",
+      "favorite": false,
+      "date": "2023-12-08"
+    }
+  ]
+}

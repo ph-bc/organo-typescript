@@ -1,0 +1,63 @@
+.subject {
+  width: 280px;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.subject .header {
+  background-color: #f0f0f0;
+  border-radius: 10px 10px 0px 0px;
+}
+.subject img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  bottom: -50px;
+  object-fit: cover;
+}
+
+.subject .footer {
+  background: #ffffff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 0px 0px 10px 10px;
+  padding-top: 48px;
+  padding-bottom: 24px;
+  flex-direction: column;
+}
+
+.subject .footer h4 {
+  color: #6278f7;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.subject .footer h5 {
+  font-size: 18px;
+  line-height: 22px;
+  color: #212121;
+  padding: 0 16px;
+  height: 80px;
+}
+
+.delete {
+  position: absolute;
+  right: -10px;
+  top: -10px;
+  color: #ff0000;
+  background-color: #ffffff;
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.subject:hover .delete {
+  opacity: 1;
+}
